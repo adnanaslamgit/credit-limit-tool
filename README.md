@@ -29,6 +29,13 @@ You will need to find a way to upload the file from UI and read the file from AP
 and then calculate the combined utilisation at each entity. Finally, the output should be displayed on the UI.
 
 Used Depth First Search Algo approach to implement.
+
+Setup: 
+git clone dir
+run npm install for node modules
+run npm start
+View in localhost:3000
+
 Attached the working gif File
 ![Limit Hierarchy for Limit Breach and No Limit Breach](http://g.recordit.co/pdKa6rnrL1.gif)
 
