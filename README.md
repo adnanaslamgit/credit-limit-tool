@@ -1,8 +1,7 @@
 Credit Limit Tool
 
 
-The data above can be represented in CSV(comma separated value) form as: entity, parent, limit, utilisation
-
+The data can be represented in CSV(comma separated value) form as: entity, parent, limit, utilisation
 
 A,,100,0
 B,A,90,10
