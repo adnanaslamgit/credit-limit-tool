@@ -1,16 +1,7 @@
 Credit Limit Tool
 
-The number to the left of the limit represent how much of that credit limit has been ‘utilised’ or used so far.
-So in the above example, C has utilised 20 of their 40 total limit, D has utilised 30 of their 40 total limit etc.
 
-Even though B has only utilised 10 of the 90 total allocated to it, B is also responsible for the combined utilisation of it’s sub-entities so it’s 
-Actual exposure is 20+30+10 = 60
-
-Although A/B/C/D hierarchy  above has no breaches, the E/F hierarchy is a little more interesting.  Even Though neither E nor F is directly in breach, because E is also responsible for the utilisation of F, the structure as a whole is in breach. 
-(80+ 150 = 230, which is greater than 200 allocated to E.
-
-The data above can be represented in CSV(comma separated value) form as below:  entity, parent, limit, utilisation
-
+The data above can be represented in CSV(comma separated value) form as: entity, parent, limit, utilisation
 
 
 A,,100,0
