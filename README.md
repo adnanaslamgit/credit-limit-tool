@@ -39,6 +39,7 @@ You will need to find a way to upload the file from UI and read the file from AP
 and then calculate the combined utilisation at each entity. Finally, the output should be displayed on the UI.
 
 Used Depth First Search Algo approach to implement.
-Attached the working gif File in the repo.
+Attached the working gif File
+![Limit Hierarchy for Limit Breach and No Limit Breach](http://g.recordit.co/pdKa6rnrL1.gif)
 
 Working URL : https://react-credit-limit-tool.stackblitz.io/
