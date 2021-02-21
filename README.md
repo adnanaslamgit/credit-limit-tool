@@ -38,7 +38,7 @@ Entities : E/F:
 You will need to find a way to upload the file from UI and read the file from API, divide the three into related entities,
 and then calculate the combined utilisation at each entity. Finally, the output should be displayed on the UI.
 
-Used Defth First Search Algo to find the relation between Parent to Child by using clusterId.
+Used Depth First Search Algo approach to implement.
 Attached the working gif File in the repo.
 
 Working URL : https://react-credit-limit-tool.stackblitz.io/
